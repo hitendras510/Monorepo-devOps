@@ -10,8 +10,9 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "db": "*",
     "@types/express": "^5.0.6",
+    "db": "*",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1"
   }
 }
